@@ -40,17 +40,17 @@ Confira meu vídeo mais recente sobre **estratégias para manter o foco programa
 
 ## 🧩 Projetos em Destaque
 
-### [Focus Timer App](https://github.com/atipico-dev/focus-timer)
+### [Focus Timer App](https://github.com/atipicodev/focus-timer)
 Um timer Pomodoro minimalista pensado para ajudar quem luta para manter a concentração.
 
-### [Template de Portfólio Acessível](https://github.com/atipico-dev/accessible-portfolio)
+### [Template de Portfólio Acessível](https://github.com/atipicodev/accessible-portfolio)
 Template de portfólio com foco em **acessibilidade e simplicidade**, perfeito para quem quer mostrar seus projetos sem sobrecarga visual.
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do Marcel](https://github-readme-stats.vercel.app/api?username=atipico-dev&show_icons=true&theme=radical)
+![Estatísticas do Marcel](https://github-readme-stats.vercel.app/api?username=atipicodev&show_icons=true&theme=radical)
 
 ---
 
